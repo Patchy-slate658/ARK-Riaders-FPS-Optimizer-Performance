@@ -54,3 +54,4 @@ PC specifications for better optimization
 ## 📞 Contact
 
 For support, please create an issue on the GitHub repository.
+
